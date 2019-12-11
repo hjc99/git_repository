@@ -7,5 +7,6 @@
 public class k {
     public static void main(String[] args) {
         System.out.println("橙");
+        System.out.println("wang");
     }
 }
