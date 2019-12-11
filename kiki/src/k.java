@@ -8,5 +8,6 @@ public class k {
     public static void main(String[] args) {
         System.out.println("橙");
         System.out.println("da");
+        System.out.println("wang");
     }
 }
